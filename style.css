@@ -1,0 +1,45 @@
+/*style all pages*/
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+  font-size: 16px;
+  color: #333;
+  background-color: #27bde2;
+  margin: 0;
+  padding: 0;
+}
+
+/*style header*/
+header {
+  background-color: #ffffff;
+  padding: 20px 0;
+  border-bottom: 1px solid #eee;
+}
+
+/*style header h1*/
+header h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 30px;
+  margin: 10 px;
+  padding: 10 px;
+  text-align: center;
+}
+
+/*style id menu-init-list */
+#menu-init-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+p {
+  margin-top: 20px;
+}
+
+/*style  footer*/
+footer {
+  background-color: #a7caeb;
+  padding: 20px 0;
+  border-top: 1px solid #eee;
+}
